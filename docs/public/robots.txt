@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://je-apartment.info/sitemap.xml
